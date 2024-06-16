@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DavePlotts
--  I’m interested in sexy time
+- 👋 Hi
 -  I’m currently at university
 -  I’m looking to collaborate with people that make money coding
 - I am rookie yes, studying Mech ENG but understand software is where the money is made
